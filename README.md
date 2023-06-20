@@ -6,7 +6,8 @@ This project was implemented as a code-along training ops I did with Sonny Sangh
 
 The project was built on the React-Native library and ofcourse targeted for use in Mobile devices. There is also some incorporation of Tailwind-CSS and HTML. The project provided firm graps on ***React-Native, React-Navigation, Redux, Hooks (UseState, UseEffect and UseContext modules of React)***. I also had my first intro to ***Google map API (places, distances, & markers)***.
 
-## How it Works
+## How to run thuis app
+*Please note you must have the **Node Package Manager** installed in your PC to run this app.*
 1.	You download the repo as a zip file by using the Github clone utility or make a desktop clone via  git.
 2.	Dependencies required to execute the app can be made available by either typing ***npm install*** or ***yarn add*** at your preferred code editor terminal. *Please ensure this is done at the route directory of the clone folder or extracted zip files. The correct version of the dependencies on which the app code is based will be downloaded.*
 3.	To execute the app, just type **expo start** or ***npm start*** or ***yarn start*** at the code editor terminal.
